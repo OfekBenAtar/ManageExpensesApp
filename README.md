@@ -5,12 +5,20 @@ This is a mobile application named Manage Expenses Application, you can use it t
 
 The items saved using Context Api.
 
+<table>
+  <th>All Expenses</th>
+  <th>Recent Expenses</th>
+  <tr>
+    <td><img width="148" alt="image" src="![AllView](https://user-images.githubusercontent.com/88097271/231752162-b8fe88c3-e228-4002-b9e5-1fa26b7a6ced.jpg)"> </td>
+    <td><img width="148" alt="image" src="![RecentView](https://user-images.githubusercontent.com/88097271/231752240-ec687bab-fe15-4131-ad53-60a6f0f4855d.jpg)"> </td>
+  </tr>
+</table>
+
 You can watch your expenses :
 
-![AllView](https://user-images.githubusercontent.com/88097271/231752162-b8fe88c3-e228-4002-b9e5-1fa26b7a6ced.jpg)
+
 
 You Can watch your recent expenses :
-![RecentView](https://user-images.githubusercontent.com/88097271/231752240-ec687bab-fe15-4131-ad53-60a6f0f4855d.jpg)
 
 
 Add new expense :
